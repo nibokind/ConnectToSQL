@@ -28,6 +28,8 @@ int main() {
 		cout << "1 - Delete" << endl;
 		cout << "2 - Insert" << endl;
 		cout << "3 - " << endl;
+		cout << "4 - " << endl;
+		cout << "5 - " << endl;
 		cin >> a;
 
 		db.query(a);
